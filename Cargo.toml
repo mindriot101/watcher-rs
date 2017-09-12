@@ -1,0 +1,9 @@
+[package]
+authors = ["Simon Walker <s.r.walker101@googlemail.com>"]
+name = "watcher"
+version = "0.1.0"
+
+[dependencies]
+clap = "2.26.0"
+error-chain = "0.11.0"
+notify = "4.0.1"
